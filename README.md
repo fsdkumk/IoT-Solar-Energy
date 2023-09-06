@@ -6,7 +6,7 @@ The components needed are ESP32 wifi module, solar panel (3-25v), voltage sensor
 Here are some pictures that were taken during the event:
 ![main](https://github.com/fsdkumk/IoT-Smart-Street-Light-using-ESP8266/assets/141599942/9a3e68b3-38b3-4af5-b3e1-67cba6ed4b08)
 
-![n](https://github.com/fsdkumk/IoT-Solar-Energy-using-ESP32/assets/141599942/7cdab258-3708-4d28-85b8-6f6da86149cf)
+![so](https://github.com/fsdkumk/IoT-Solar-Energy-using-ESP32/assets/141599942/531d8801-ba42-48f2-a590-5a77ab332b67)
 
 ![l](https://github.com/fsdkumk/IoT-Solar-Energy-using-ESP32/assets/141599942/9694da83-98b3-44b4-94ff-d985c99af26e)
 
