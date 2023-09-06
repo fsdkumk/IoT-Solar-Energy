@@ -8,6 +8,4 @@ Here are some pictures that were taken during the event:
 
 ![so](https://github.com/fsdkumk/IoT-Solar-Energy-using-ESP32/assets/141599942/531d8801-ba42-48f2-a590-5a77ab332b67)
 
-![l](https://github.com/fsdkumk/IoT-Solar-Energy-using-ESP32/assets/141599942/9694da83-98b3-44b4-94ff-d985c99af26e)
-
 ![w](https://github.com/fsdkumk/IoT-Solar-Energy-using-ESP32/assets/141599942/684e824a-28c4-420b-9525-950034a8c034)
